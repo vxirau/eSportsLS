@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Kiwi con Escaramujo con Calabaza con Beicon con Berenjena",
+    "energetic_value": 901,
+    "fat": 262.221
+  },
+  {
+    "name": "Carne grasa de cerdo con Queso cheddar con Pomelo con Lechuga iceberg con Plátano",
+    "energetic_value": 866,
+    "fat": 153.226
+  },
+  {
+    "name": "Uvas con Jamón con Hinojo con Carne magra de cerdo con Mango",
+    "energetic_value": 641,
+    "fat": 35.921
+  },
+  {
+    "name": "Queso emmental con Col china con Calabacín con Berro de agua con Pizza margarita",
+    "energetic_value": 633,
+    "fat": 35.753002
+  },
+  {
+    "name": "Salchicha con Melón con Salmón con Calabacín con Abadejo",
+    "energetic_value": 669,
+    "fat": 133.509
+  },
+  {
+    "name": "Coliflor con Baguette con Hamburguesa con queso con Ciruela con Guindilla",
+    "energetic_value": 610,
+    "fat": 101.7
+  },
+  {
+    "name": "Pan de pita con Rabanitos con Col lombarda con Beicon con Salchicha con curry",
+    "energetic_value": 1268,
+    "fat": 388.698
+  },
+  {
+    "name": "Pan de molde integral con Zanahoria con Col china con Chapata con Gin-tonic",
+    "energetic_value": 1003,
+    "fat": 411.50302
+  },
+  {
+    "name": "Pizza con salami con Pasta de espelta cocida con Huevo con Hamburguesa con queso con Plátano",
+    "energetic_value": 866,
+    "fat": 323.316
+  },
+  {
+    "name": "Calabacín con Pan de molde integral con Fideos cocidos con Guisantes con Judías",
+    "energetic_value": 513,
+    "fat": 223.19301
+  },
+  {
+    "name": "Col china con Lichi con Crème fraîche con Ciruela con Patatas fritas",
+    "energetic_value": 957,
+    "fat": 180.17699
+  },
+  {
+    "name": "Rollo de canela con Ciruela con Pechuga de pollo con Puerro con Membrillo",
+    "energetic_value": 575,
+    "fat": 117.785
+  },
+  {
+    "name": "Dani",
+    "energetic_value": 2999,
+    "fat": 0
+  },
+  {
+    "name": "Patata con Tortilla integral con Salchicha de Viena con Ruibarbo con Queso cheddar",
+    "energetic_value": 1055,
+    "fat": 365.055
+  },
+  {
+    "name": "Queso emmental con Vodka con Plátano con Gin-tonic con Pechuga de pollo",
+    "energetic_value": 1137,
+    "fat": 255.39699
+  },
+  {
+    "name": "Maracuyá con Rollo de canela con Rabanitos con Calabaza con Beicon",
+    "energetic_value": 1161,
+    "fat": 466.001
+  },
+  {
+    "name": "Suero de mantequilla con Piña con Champiñones con Col rizada con Rúcula",
+    "energetic_value": 189,
+    "fat": 64.329
+  },
+  {
+    "name": "Pan de pita con Queso quark desnatado con Hamburguesa con Trucha con Salchicha con curry",
+    "energetic_value": 986,
+    "fat": 440.406
+  },
+  {
+    "name": "Manzana con Albaricoque con Hinojo con Calabaza con Queso emmental",
+    "energetic_value": 527,
+    "fat": 164.95699
+  },
+  {
+    "name": "Smetana con Sandía con Tallarines cocidos con Jamón con Zanahoria",
+    "energetic_value": 800,
+    "fat": 148.38
+  },
+  {
+    "name": "Ciervo con Frambuesas con Lichi con Filete de perca con Hamburguesa",
+    "energetic_value": 879,
+    "fat": 137.68901
+  },
+  {
+    "name": "Pechuga de pavo con Queso emmental con Pepino con Carne picada de vacuno con Aguacate",
+    "energetic_value": 880,
+    "fat": 378.98
+  },
+  {
+    "name": "Queso quark desnatado con Abadejo con Trucha con Döner con Smetana",
+    "energetic_value": 655,
+    "fat": 61.635
+  },
+  {
+    "name": "Cerezas con Vino con Plátano con Pimiento con Hinojo",
+    "energetic_value": 483,
+    "fat": 112.113
+  },
+  {
+    "name": "Puerro con Jengibre con Ciruela con Champiñones con Berenjena",
+    "energetic_value": 204,
+    "fat": 87.97401
+  },
+  {
+    "name": "Salami con Trucha con Abadejo con Queso cheddar con Brócoli",
+    "energetic_value": 1078,
+    "fat": 4.618
+  },
+  {
+    "name": "Membrillo con Filete de perca con Smetana con Calabacín con Leche",
+    "energetic_value": 456,
+    "fat": 121.815994
+  },
+  {
+    "name": "Manzana con Nata agria con Pizza con salami con Crème fraîche con Ruibarbo",
+    "energetic_value": 725,
+    "fat": 139.845
+  },
+  {
+    "name": "Mandarina con Frambuesas con Alcachofa con Pechuga de pavo con Pechuga de pavo",
+    "energetic_value": 355,
+    "fat": 104.095
+  },
+  {
+    "name": "Mandarina con Queso emmental con Patata con Guisantes con Remolacha",
+    "energetic_value": 643,
+    "fat": 320.863
+  },
+  {
+    "name": "Plátano con Tortilla integral con Atún con Ruibarbo con Arenque",
+    "energetic_value": 569,
+    "fat": 219.85901
+  },
+  {
+    "name": "Berro de agua con Ternera con Tortilla integral con Sandía con Berenjena",
+    "energetic_value": 337,
+    "fat": 79.197
+  },
+  {
+    "name": "Nata agria con Alcachofa con Albaricoque con Rúcula con Pasta de espelta cocida",
+    "energetic_value": 358,
+    "fat": 126.588
+  },
+  {
+    "name": "Cerezas con Berenjena con Pechuga de pavo con Carne grasa de cerdo con Albaricoque",
+    "energetic_value": 539,
+    "fat": 83.499
+  },
+  {
+    "name": "Champiñones con Berro de agua con Ternera con Pizza margarita con Queso emmental",
+    "energetic_value": 716,
+    "fat": 199.116
+  },
+  {
+    "name": "Ciervo con Salmón con Crème fraîche con Manzana con Piña",
+    "energetic_value": 911,
+    "fat": 130.301
+  },
+  {
+    "name": "Salchicha con curry con Arenque con Salchicha con curry con Beicon con Acelga",
+    "energetic_value": 1386,
+    "fat": 471.496
+  },
+  {
+    "name": "Berro de agua con Crème fraîche con Brócoli con Moras con Coliflor",
+    "energetic_value": 414,
+    "fat": 69.054
+  },
+  {
+    "name": "Champiñones con Yogur natural con Naan con Mandarina con Leche de coco",
+    "energetic_value": 560,
+    "fat": 107.85
+  },
+  {
+    "name": "Ciervo con Pechuga de pollo con Coliflor con Pizza margarita con Pan de pita",
+    "energetic_value": 964,
+    "fat": 404.004
+  },
+  {
+    "name": "Nata con Fideos cocidos con Pomelo con Champiñones con Naranja sanguina",
+    "energetic_value": 463,
+    "fat": 131.013
+  },
+  {
+    "name": "Cruasán con Ciruela con Pizza margarita con Naranja sanguina con Hinojo",
+    "energetic_value": 715,
+    "fat": 42.535
+  },
+  {
+    "name": "Membrillo con Patata con Cerveza con Patatas fritas con Patatas fritas",
+    "energetic_value": 929,
+    "fat": 428.13898
+  },
+  {
+    "name": "Döner vegetariano con Col china con Abadejo con Rollo de canela con Granada",
+    "energetic_value": 661,
+    "fat": 148.181
+  },
+  {
+    "name": "Tortilla integral con Tallarines cocidos con Cruasán con Escaramujo con Salami",
+    "energetic_value": 1391,
+    "fat": 102.770996
+  },
+  {
+    "name": "Fideos cocidos con Patatas fritas con Cerveza con Huevo con Salami",
+    "energetic_value": 1318,
+    "fat": 226.33801
+  },
+  {
+    "name": "Manzana con Cerveza con Judías con Salchicha de Viena con Tallarines cocidos",
+    "energetic_value": 834,
+    "fat": 361.654
+  },
+  {
+    "name": "Pomelo con Lechuga iceberg con Vino con Jengibre con Arándano",
+    "energetic_value": 472,
+    "fat": 93.252
+  },
+  {
+    "name": "Cruasán con Espaguetis integrales cocidos con Patatas fritas con Lechuga iceberg con Mandarina",
+    "energetic_value": 900,
+    "fat": 81.26
+  },
+  {
+    "name": "Mandarina con Naranja sanguina con Queso cheddar con Patata con Calabaza",
+    "energetic_value": 603,
+    "fat": 3.853
+  },
+  {
+    "name": "Carne magra de cerdo con Cebolla con Hamburguesa con queso con Membrillo con Naranja sanguina",
+    "energetic_value": 516,
+    "fat": 179.986
+  },
+  {
+    "name": "Pasta de espelta cocida con Aguacate con Frambuesas con Fresa con Carne magra de cerdo",
+    "energetic_value": 499,
+    "fat": 1.119
+  },
+  {
+    "name": "Suero de mantequilla con Espinaca con Judías con Lucio con Salchicha",
+    "energetic_value": 511,
+    "fat": 111.351
+  },
+  {
+    "name": "Vino con Tallarines cocidos con Salami con Colinabo con Frambuesas",
+    "energetic_value": 1022,
+    "fat": 179.30199
+  },
+  {
+    "name": "Uvas con Piña con Döner con Lichi con Nutella",
+    "energetic_value": 953,
+    "fat": 296.28302
+  },
+  {
+    "name": "Yogur natural con Aguacate con Vino con Naan con Baguette",
+    "energetic_value": 1053,
+    "fat": 359.663
+  },
+  {
+    "name": "Beicon con Arándano con Filete de nalga con Limón con Abadejo",
+    "energetic_value": 960,
+    "fat": 177.56
+  },
+  {
+    "name": "Patatas fritas con Filete de cerdo con Zanahoria con Huevo con Escalope de cerdo",
+    "energetic_value": 1006,
+    "fat": 197.57599
+  },
+  {
+    "name": "Arándano rojo con Pumpernickel con Lichi con Tortilla integral con Lucio",
+    "energetic_value": 513,
+    "fat": 69.983
+  },
+  {
+    "name": "Pasta de espelta cocida con Fideos cocidos con Hinojo con Nutella con Atún",
+    "energetic_value": 992,
+    "fat": 78.282005
+  },
+  {
+    "name": "Leche con Maracuyá con Filete de perca con Fresa con Espárrago",
+    "energetic_value": 305,
+    "fat": 113.965
+  },
+  {
+    "name": "Gin-tonic con Rabanitos con Cruasán con Fideos de cristal cocidos con Salchicha con curry",
+    "energetic_value": 1198,
+    "fat": 546.79803
+  },
+  {
+    "name": "Coliflor con Döner con Espárrago con Salmón con Filete de nalga",
+    "energetic_value": 557,
+    "fat": 179.28699
+  },
+  {
+    "name": "Acelga con Salchicha con curry con Galletas con chocolate con Tortilla integral con Piña",
+    "energetic_value": 1044,
+    "fat": 185.214
+  },
+  {
+    "name": "Coliflor con Nata agria con Kiwi con Membrillo con Rabanitos",
+    "energetic_value": 245,
+    "fat": 91.145
+  },
+  {
+    "name": "Cordero con Puerro con Leche de coco con Plátano con Jengibre",
+    "energetic_value": 513,
+    "fat": 118.143
+  },
+  {
+    "name": "Cerezas con Salchicha de Viena con Carne picada de vacuno con Galletas con chocolate con Rabanitos",
+    "energetic_value": 1165,
+    "fat": 248.945
+  },
+  {
+    "name": "Limón con Col de Bruselas con Ternera con Aguacate con Cerezas",
+    "energetic_value": 382,
+    "fat": 146.492
+  },
+  {
+    "name": "Albaricoque con Atún con Cordero con Guindilla con Salchicha con curry",
+    "energetic_value": 693,
+    "fat": 203.54301
+  },
+  {
+    "name": "Huevo con Espinaca con Yogur natural con Patatas fritas con Carne magra de cerdo",
+    "energetic_value": 674,
+    "fat": 96.72401
+  },
+  {
+    "name": "Pimiento con Acelga con Col lombarda con Cebolla con Vino",
+    "energetic_value": 402,
+    "fat": 70.992004
+  },
+  {
+    "name": "Lichi con Boniato con Champiñones con Puerro con Champiñones",
+    "energetic_value": 217,
+    "fat": 39.677
+  },
+  {
+    "name": "Chapata con Gin-tonic con Hamburguesa con queso con Rabanitos con Col china",
+    "energetic_value": 989,
+    "fat": 141.04901
+  },
+  {
+    "name": "Filete de vacuno con Boniato con Filete de vacuno con Fideos de cristal cocidos con Abadejo",
+    "energetic_value": 513,
+    "fat": 109.553
+  },
+  {
+    "name": "Vodka con Arándano rojo con Col rizada con Cerezas con Alcachofa",
+    "energetic_value": 407,
+    "fat": 16.866999
+  },
+  {
+    "name": "Alcachofa con Smetana con Berro de agua con Vino con Fideos de cristal cocidos",
+    "energetic_value": 723,
+    "fat": 98.003
+  },
+  {
+    "name": "Pimiento con Aguacate con Döner vegetariano con Higo con Albaricoque",
+    "energetic_value": 438,
+    "fat": 139.73799
+  },
+  {
+    "name": "Queso cheddar con Pan de pita con Escalope de cerdo con Colinabo con Champiñones",
+    "energetic_value": 847,
+    "fat": 253.077
+  },
+  {
+    "name": "Remolacha con Maracuyá con Hamburguesa con Queso quark desnatado con Frambuesas",
+    "energetic_value": 534,
+    "fat": 179.864
+  },
+  {
+    "name": "Rollo de canela con Patatas fritas con Pimiento con Sandía con Jengibre",
+    "energetic_value": 1054,
+    "fat": 214.154
+  },
+  {
+    "name": "Cebolla con Judías con Pan de molde integral con Ciruela con Lucio",
+    "energetic_value": 406,
+    "fat": 128.316
+  },
+  {
+    "name": "Salmón con Espinaca con Hamburguesa con Carne grasa de cerdo con Ciruela",
+    "energetic_value": 809,
+    "fat": 176.169
+  },
+  {
+    "name": "Carne grasa de cerdo con Ternera con Galletas con chocolate con Filete de nalga con Patatas fritas",
+    "energetic_value": 1618,
+    "fat": 42.758
+  },
+  {
+    "name": "Col lombarda con Crème fraîche con Rúcula con Carne picada de vacuno con Rollo de canela",
+    "energetic_value": 942,
+    "fat": 99.602005
+  },
+  {
+    "name": "Cerezas con Espaguetis integrales cocidos con Jengibre con Beicon con Galletas con chocolate",
+    "energetic_value": 1439,
+    "fat": 52.889
+  },
+  {
+    "name": "Ciervo con Hinojo con Melocotón con Vino con Cordero",
+    "energetic_value": 918,
+    "fat": 272.49802
+  },
+  {
+    "name": "Tallarines cocidos con Baguette con Pepino con Pomelo con Albaricoque",
+    "energetic_value": 515,
+    "fat": 57.505
+  },
+  {
+    "name": "Champiñones con Higo con Ruibarbo con Escalope de cerdo con Cordero",
+    "energetic_value": 433,
+    "fat": 204.21301
+  },
+  {
+    "name": "Arándano con Filete de perca con Limón con Vodka con Champiñones",
+    "energetic_value": 418,
+    "fat": 156.028
+  },
+  {
+    "name": "Plátano con Guindilla con Pan de pita con Plátano con Hamburguesa con queso",
+    "energetic_value": 756,
+    "fat": 7.106
+  },
+  {
+    "name": "Fideos cocidos con Patatas fritas con Guisantes con Higo con Ciervo",
+    "energetic_value": 997,
+    "fat": 498.757
+  },
+  {
+    "name": "Rollo de canela con Chapata con Bretzel con Hamburguesa con queso con Remolacha",
+    "energetic_value": 1227,
+    "fat": 129.237
+  },
+  {
+    "name": "Kiwi con Arándano rojo con Judías con Uvas con Rúcula",
+    "energetic_value": 217,
+    "fat": 73.987
+  },
+  {
+    "name": "Fideos cocidos con Escalope de cerdo con Smetana con Trucha con Carne picada de vacuno",
+    "energetic_value": 749,
+    "fat": 48.509
+  },
+  {
+    "name": "Salami con Cruasán con Pechuga de pavo con Crema agria con Puerro",
+    "energetic_value": 1204,
+    "fat": 20.474
+  },
+  {
+    "name": "Nata agria con Chapata con Smetana con Atún con Cordero",
+    "energetic_value": 1010,
+    "fat": 66.02
+  },
+  {
+    "name": "Espinaca con Huevo con Carne picada de vacuno con Crème fraîche con Fideos cocidos",
+    "energetic_value": 824,
+    "fat": 177.694
+  },
+  {
+    "name": "Jengibre con Boniato con Escaramujo con Trucha con Patata",
+    "energetic_value": 454,
+    "fat": 141.054
+  },
+  {
+    "name": "Patatas fritas con Brócoli con Zanahoria con Sandía con Atún",
+    "energetic_value": 536,
+    "fat": 42.576
+  },
+  {
+    "name": "Salchicha con Queso emmental con Piña con Alcachofa con Döner",
+    "energetic_value": 1074,
+    "fat": 486.874
+  }
+]

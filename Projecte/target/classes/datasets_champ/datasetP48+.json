@@ -1,0 +1,2498 @@
+[
+  {
+    "team": "team 1",
+    "nationality": "España",
+    "winrate": 45.57,
+    "players": [
+      {
+        "name": "Pol Muñoz",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "Dani Casado",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      },
+      {
+        "name": "Marc Aynés",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "Faker",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      },
+      {
+        "name": "Alexelcapo",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 2",
+    "nationality": "EEUU",
+    "winrate": 91.36,
+    "players": [
+      {
+        "name": "pepe",
+        "main_position": "31",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "Joan",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "Viva Compus",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "PAED eassy",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "Patito",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 3",
+    "nationality": "Korea",
+    "winrate": 11.32,
+    "players": [
+      {
+        "name": "Jose",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      },
+      {
+        "name": "GUS",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "Mates",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "becario",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "Maria",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 71"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 4",
+    "nationality": "España",
+    "winrate": 54.58,
+    "players": [
+      {
+        "name": "Marina",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "Mel",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "Anto",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "pico",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 46"
+          }
+        ]
+      },
+      {
+        "name": "butifarra",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 5",
+    "nationality": "Korea",
+    "winrate": 94.69,
+    "players": [
+      {
+        "name": "daniel",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "pol",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 96"
+          }
+        ]
+      },
+      {
+        "name": "marc",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "zacarias",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "gerard",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 6",
+    "nationality": "España",
+    "winrate": 38.87,
+    "players": [
+      {
+        "name": "ramon",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 57"
+          }
+        ]
+      },
+      {
+        "name": "Anna",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 52"
+          }
+        ]
+      },
+      {
+        "name": "ana",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "pikachu",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "ocelote",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 44"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 7",
+    "nationality": "Canada",
+    "winrate": 35.61,
+    "players": [
+      {
+        "name": "XPEKE",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 63"
+          }
+        ]
+      },
+      {
+        "name": "andreu",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      },
+      {
+        "name": "alex",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "alfredo",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 35"
+          }
+        ]
+      },
+      {
+        "name": "pesao",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 8",
+    "nationality": "Korea",
+    "winrate": 61.61,
+    "players": [
+      {
+        "name": "pray",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "BDD",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "peanut",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "BBDD mola",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 84"
+          }
+        ]
+      },
+      {
+        "name": "caps",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 9",
+    "nationality": "EEUU",
+    "winrate": 79.52,
+    "players": [
+      {
+        "name": "rekkles",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "perkz",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 32"
+          }
+        ]
+      },
+      {
+        "name": "doublelift",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "mithy",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 92"
+          }
+        ]
+      },
+      {
+        "name": "jiizuke",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 10",
+    "nationality": "EEUU",
+    "winrate": 54.44,
+    "players": [
+      {
+        "name": "broxah",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 30"
+          }
+        ]
+      },
+      {
+        "name": "wunder",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 21"
+          }
+        ]
+      },
+      {
+        "name": "samux",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "sneaky",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "attila",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 11",
+    "nationality": "Canada",
+    "winrate": 11.43,
+    "players": [
+      {
+        "name": "bwipo",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "odoamne",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 2"
+          }
+        ]
+      },
+      {
+        "name": "nemesis",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 27"
+          }
+        ]
+      },
+      {
+        "name": "licorice",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 90"
+          }
+        ]
+      },
+      {
+        "name": "chupito",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 96"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 12",
+    "nationality": "España",
+    "winrate": 3.34,
+    "players": [
+      {
+        "name": "bear",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 70"
+          }
+        ]
+      },
+      {
+        "name": "falco",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "yoppa",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 50"
+          }
+        ]
+      },
+      {
+        "name": "jankos",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 56"
+          }
+        ]
+      },
+      {
+        "name": "ander",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 13",
+    "nationality": "Korea",
+    "winrate": 39.72,
+    "players": [
+      {
+        "name": "ibai",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 15"
+          }
+        ]
+      },
+      {
+        "name": "ulises",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 2"
+          }
+        ]
+      },
+      {
+        "name": "roca",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "jhon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      },
+      {
+        "name": "nieve",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 14",
+    "nationality": "Korea",
+    "winrate": 39.7,
+    "players": [
+      {
+        "name": "lanister",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "jandro",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 76"
+          }
+        ]
+      },
+      {
+        "name": "javier",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "juanpa",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "madree",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 15",
+    "nationality": "Francia",
+    "winrate": 6.66,
+    "players": [
+      {
+        "name": "java",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      },
+      {
+        "name": "CBetterThanJava",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "slowJava",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 27"
+          }
+        ]
+      },
+      {
+        "name": "MAC",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 50"
+          }
+        ]
+      },
+      {
+        "name": "Windows",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 16",
+    "nationality": "EEUU",
+    "winrate": 56.89,
+    "players": [
+      {
+        "name": "Linux",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 11"
+          }
+        ]
+      },
+      {
+        "name": "montse",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 24"
+          }
+        ]
+      },
+      {
+        "name": "lidia",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 84"
+          }
+        ]
+      },
+      {
+        "name": "josefina",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 22"
+          }
+        ]
+      },
+      {
+        "name": "luz",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 17",
+    "nationality": "EEUU",
+    "winrate": 51.26,
+    "players": [
+      {
+        "name": "kyoku",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 63"
+          }
+        ]
+      },
+      {
+        "name": "pilar",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "orange",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 35"
+          }
+        ]
+      },
+      {
+        "name": "obi wan",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 46"
+          }
+        ]
+      },
+      {
+        "name": "leia",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 18",
+    "nationality": "España",
+    "winrate": 95.48,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 59"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 92"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 19",
+    "nationality": "Korea",
+    "winrate": 47.56,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 29"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 20",
+    "nationality": "Korea",
+    "winrate": 34.56,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 36"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 51"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 76"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 21",
+    "nationality": "Korea",
+    "winrate": 23.45,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 36"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 51"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 22",
+    "nationality": "Korea",
+    "winrate": 32.54,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 36"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 23"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 23",
+    "nationality": "Korea",
+    "winrate": 98.78,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 51"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 50"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 24",
+    "nationality": "Korea",
+    "winrate": 76.67,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 23"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 25",
+    "nationality": "España",
+    "winrate": 65.98,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 36"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 27"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 26",
+    "nationality": "Korea",
+    "winrate": 89.67,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 36"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 63"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 25"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 23"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 27",
+    "nationality": "Korea",
+    "winrate": 12.43,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 28",
+    "nationality": "España",
+    "winrate": 56.45,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 36"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 51"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 29"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 23"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 29",
+    "nationality": "Korea",
+    "winrate": 78.45,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 35"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 51"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 63"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 59"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 92"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 30",
+    "nationality": "España",
+    "winrate": 92.45,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 35"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 80"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 63"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      }
+    ]
+  },
+	{
+    "team": "team 31",
+    "nationality": "EEUU",
+    "winrate": 45.57,
+    "players": [
+      {
+        "name": "Pol Muñoz",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "Dani Casado",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      },
+      {
+        "name": "Marc Aynés",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "Faker",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      },
+      {
+        "name": "Alexelcapo",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 32",
+    "nationality": "EEUU",
+    "winrate": 91.36,
+    "players": [
+      {
+        "name": "pepe",
+        "main_position": "31",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "Joan",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "Viva Compus",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "PAED eassy",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "Patito",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 33",
+    "nationality": "Korea",
+    "winrate": 11.32,
+    "players": [
+      {
+        "name": "Jose",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      },
+      {
+        "name": "GUS",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "Mates",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "becario",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "Maria",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 71"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 34",
+    "nationality": "Canada",
+    "winrate": 54.58,
+    "players": [
+      {
+        "name": "Marina",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "Mel",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "Anto",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "pico",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 46"
+          }
+        ]
+      },
+      {
+        "name": "butifarra",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 35",
+    "nationality": "Korea",
+    "winrate": 94.69,
+    "players": [
+      {
+        "name": "daniel",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "pol",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 96"
+          }
+        ]
+      },
+      {
+        "name": "marc",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "zacarias",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "gerard",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 36",
+    "nationality": "España",
+    "winrate": 38.87,
+    "players": [
+      {
+        "name": "ramon",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 57"
+          }
+        ]
+      },
+      {
+        "name": "Anna",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 52"
+          }
+        ]
+      },
+      {
+        "name": "ana",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "pikachu",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "ocelote",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 44"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 37",
+    "nationality": "Canada",
+    "winrate": 35.61,
+    "players": [
+      {
+        "name": "XPEKE",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 63"
+          }
+        ]
+      },
+      {
+        "name": "andreu",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      },
+      {
+        "name": "alex",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "alfredo",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 35"
+          }
+        ]
+      },
+      {
+        "name": "pesao",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 38",
+    "nationality": "Korea",
+    "winrate": 61.61,
+    "players": [
+      {
+        "name": "pray",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "BDD",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "peanut",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "BBDD mola",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 84"
+          }
+        ]
+      },
+      {
+        "name": "caps",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 39",
+    "nationality": "EEUU",
+    "winrate": 79.52,
+    "players": [
+      {
+        "name": "rekkles",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "perkz",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 32"
+          }
+        ]
+      },
+      {
+        "name": "doublelift",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      },
+      {
+        "name": "mithy",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 92"
+          }
+        ]
+      },
+      {
+        "name": "jiizuke",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 40",
+    "nationality": "EEUU",
+    "winrate": 54.44,
+    "players": [
+      {
+        "name": "broxah",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 30"
+          }
+        ]
+      },
+      {
+        "name": "wunder",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 21"
+          }
+        ]
+      },
+      {
+        "name": "samux",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "sneaky",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "attila",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 41",
+    "nationality": "Canada",
+    "winrate": 11.43,
+    "players": [
+      {
+        "name": "bwipo",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "odoamne",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 2"
+          }
+        ]
+      },
+      {
+        "name": "nemesis",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 27"
+          }
+        ]
+      },
+      {
+        "name": "licorice",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 90"
+          }
+        ]
+      },
+      {
+        "name": "chupito",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 96"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 42",
+    "nationality": "España",
+    "winrate": 3.34,
+    "players": [
+      {
+        "name": "bear",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 70"
+          }
+        ]
+      },
+      {
+        "name": "falco",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "yoppa",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 50"
+          }
+        ]
+      },
+      {
+        "name": "jankos",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 56"
+          }
+        ]
+      },
+      {
+        "name": "ander",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 43",
+    "nationality": "Korea",
+    "winrate": 39.72,
+    "players": [
+      {
+        "name": "ibai",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 15"
+          }
+        ]
+      },
+      {
+        "name": "ulises",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 2"
+          }
+        ]
+      },
+      {
+        "name": "roca",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "jhon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      },
+      {
+        "name": "nieve",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 44",
+    "nationality": "Korea",
+    "winrate": 39.7,
+    "players": [
+      {
+        "name": "lanister",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "jandro",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 76"
+          }
+        ]
+      },
+      {
+        "name": "javier",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "juanpa",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "madree",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 45",
+    "nationality": "Francia",
+    "winrate": 6.66,
+    "players": [
+      {
+        "name": "java",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 69"
+          }
+        ]
+      },
+      {
+        "name": "CBetterThanJava",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 7"
+          }
+        ]
+      },
+      {
+        "name": "slowJava",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 27"
+          }
+        ]
+      },
+      {
+        "name": "MAC",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 50"
+          }
+        ]
+      },
+      {
+        "name": "Windows",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 82"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 46",
+    "nationality": "EEUU",
+    "winrate": 56.89,
+    "players": [
+      {
+        "name": "Linux",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 11"
+          }
+        ]
+      },
+      {
+        "name": "montse",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 24"
+          }
+        ]
+      },
+      {
+        "name": "lidia",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 84"
+          }
+        ]
+      },
+      {
+        "name": "josefina",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 22"
+          }
+        ]
+      },
+      {
+        "name": "luz",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 47",
+    "nationality": "España",
+    "winrate": 51.26,
+    "players": [
+      {
+        "name": "kyoku",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 63"
+          }
+        ]
+      },
+      {
+        "name": "pilar",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "orange",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 35"
+          }
+        ]
+      },
+      {
+        "name": "obi wan",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 46"
+          }
+        ]
+      },
+      {
+        "name": "leia",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 48",
+    "nationality": "Korea",
+    "winrate": 95.48,
+    "players": [
+      {
+        "name": "po",
+        "main_position": "Top",
+        "main_champion": [
+          {
+            "name": "Legend 59"
+          }
+        ]
+      },
+      {
+        "name": "donatello",
+        "main_position": "Jungle",
+        "main_champion": [
+          {
+            "name": "Legend 92"
+          }
+        ]
+      },
+      {
+        "name": "rob",
+        "main_position": "Mid",
+        "main_champion": [
+          {
+            "name": "Legend 41"
+          }
+        ]
+      },
+      {
+        "name": "doraemon",
+        "main_position": "ADC",
+        "main_champion": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "novita",
+        "main_position": "Support",
+        "main_champion": [
+          {
+            "name": "Legend 34"
+          }
+        ]
+      }
+    ]
+  }
+]
