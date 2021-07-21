@@ -1,4 +1,7 @@
 # P2-eSportsLS
+
+**2019/2020**
+
 Combinatory Optimization Algorithms
 
 eSports La Salle is a (fictional) project created by the university to organize League of Legends game competitions. Now that the teams have been organized, we will have to distribute them in groups for the initial phase of the tournament, and organize the services we will give to the players.
