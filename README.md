@@ -1,4 +1,4 @@
-# P2-eSportsLS
+# eSportsLS
 
 **2019/2020**
 
